@@ -1,16 +1,58 @@
-## Hi there 👋
+### Full-Stack Software Engineer | AI Automation & Integration Developer | Power Platform Developer
 
-<!--
-**ryangrubbs54/ryangrubbs54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with **5+ years of experience** building enterprise applications, full-stack web solutions, and business process automations. My work spans **React and Node.js applications, C#/.NET APIs, Microsoft Power Platform, SharePoint, and cloud integrations**.
 
-Here are some ideas to get you started:
+I enjoy connecting systems, improving existing applications, and building practical tools that make complex workflows easier to manage. More recently, I've been expanding into **AI-powered applications and automation** using n8n, OpenAI, and external APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technology Stack
+
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | JavaScript, TypeScript, React, Redux |
+| **Backend & APIs** | C#, ASP.NET Core, Node.js, Express.js, RESTful APIs, microservices |
+| **Databases** | SQL Server, Oracle Database, MySQL, PostgreSQL, MongoDB |
+| **Business Applications** | Power Apps, Power Fx, Power Automate, SharePoint Online, SharePoint 2019, Power BI |
+| **Cloud & DevOps** | AWS, Azure, Git, GitHub, GitLab, CI/CD |
+| **Automation & Scripting** | PowerShell, PnP PowerShell, Python, n8n |
+| **AI Integrations** | OpenAI API, AI email automation, structured AI outputs, human-reviewed workflows |
+| **Additional Experience** | Java, PHP, Prometheus, Grafana, Agile/Scrum, TDD, Section 508 accessibility |
+
+## 🧩 Professional Experience Highlights
+
+- **Full-stack web development:** Built responsive interfaces with React and Redux, developed RESTful APIs and microservices using Node.js and Express.js, and integrated frontend/backend data flows.
+- **C# and .NET engineering:** Built internal tools and backend APIs using C# and ASP.NET Core, with Oracle Database supporting application data.
+- **Power Platform and SharePoint:** Developed Power Apps canvas applications, automated multistage approvals, managed SharePoint data structures, and used PowerShell/PnP scripts for provisioning and migrations.
+- **Cloud modernization:** Worked on migrating legacy applications to AWS and Azure and improving maintainability, reliability, and accessibility.
+- **Team delivery:** Collaborated on code reviews, troubleshooting, Agile development, and cross-functional software projects.
+
+## 🚀 Featured Project
+
+### [AI Customer Support Email Agent](https://github.com/Ryangrubbs54/AI-Customer-Support-Email-Agent)
+
+A **portfolio demonstration** of an AI-assisted customer support workflow built with **n8n, OpenAI, Gmail, Google Sheets, JavaScript, and Docker**.
+
+The system:
+- Monitors incoming test emails and categorizes customer inquiries.
+- Extracts order numbers and checks fictional order records.
+- Compares sender addresses to order records before preparing order-specific replies.
+- Creates **Gmail drafts for human review**, rather than automatically sending replies.
+- Tracks message processing, draft outcomes, duplicate detection, and exceptions.
+- Includes separate error logging and monitoring for stalled processing.
+
+**[Explore the project →](https://github.com/Ryangrubbs54/AI-Customer-Support-Email-Agent)**
+
+## 📚 Certifications
+
+- CompTIA Security+
+- CompTIA Server+
+- AWS Certified Cloud Practitioner
+
+## 🔭 Current Focus
+
+I'm continuing to develop my skills in **AI agents, knowledge-base chatbots, retrieval-augmented generation (RAG), cloud integration, and solution architecture** while applying my existing full-stack and enterprise automation experience.
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on **full-stack applications, API and cloud integrations, AI automation, and Microsoft Power Platform solutions**.
+
+Take a look at my [repositories](https://github.com/Ryangrubbs54?tab=repositories) to explore my work.
