@@ -46,6 +46,8 @@ The system:
 - CompTIA Security+
 - CompTIA Server+
 - AWS Certified Cloud Practitioner
+- TS Clearance
+- Microsoft Power Platform Developer PL400
 
 ## 🔭 Current Focus
 
